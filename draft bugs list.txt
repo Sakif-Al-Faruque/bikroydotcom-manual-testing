@@ -1,0 +1,20 @@
+1. Category. when sub-categories are not being shown, the parent categories are not being shown
+2. same thing goes for the Location. When sub-categories are showing parent 
+3. I am able to promote other's Ad (promotion of ad should be self oriented)
+4. showing more that 25 ads in the list (different top ads are included)
+5. clicking on 'all categories'>'mobile' is showing the title 'Mobiles and Accessories for Sale in Bangladesh'
+[x] 6. clicking on  'all categories'>'mobile'>'mobile phone accessories' and clicking on 'All of Bangladesh'>'Dhaka' shows the Mobiles and Accessories for Sale in ঢাকা 
+[x] 7. product view arrow is not working
+8. soudi arabia county is present in All of Bangladesh location
+9. categories should be in alphabetic order
+10. location should be in alphabetic order
+11. clicking on 'all categories'>'Home & Living'>'Office & Shop Furniture' provides the title 'Office Furniture for Sale in Bangladesh'
+12. clicking on 'all categories'>'Pets & Animals'>'Other Pets & Animals' provides the title 'All type of Pets and Animals for Sale in Bangladesh'
+13. clicking on 'all categories'>'Men's Fashion & Grooming'>'Baby Boy's Fashion' provides the title 'Fashion Items for Body Boys in Bangladesh' (title spelling)
+14. clicking on 'all categories'>'Hobbies, Sports & Kids'>'Other Hobby, Sport & Kids items' provides the title 'Kids & Sports Items for Sale in Bangladesh' 
+15. clicking on 'all categories'>'Business & Industry'>'Other Business & Industry Items' provides the title 'General Business and industry items for sale in Bangladesh'
+16. clicking on 'all categories'>'Essentials'>'Other Essentials' provides the title 'Buy Cooking Gas Online in Bangladesh'
+17. clicking on 'all categories'>'Education'>'Other Education' provides the title 'Educational assistance services in Bangladesh'
+18. clicking on 'all categories'>'Agriculture'>'Other Agriculture' provides the title 'All types of Agricultural Items for Sale in Bangladesh'
+19. phone number login OTP expiry durations are not showing same in phone(10 mins) and website(60secs)
+
