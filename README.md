@@ -1,4 +1,4 @@
-# Manual Test (Functional Test) description Bikroy.com
+# Manual Test (Functional Test) description of Bikroy.com
 This documentation configuration is quite easy. The motive is to test the functionalities
 of the Bikroy.com website. Therefore, this test will be called Functional Testing under
 Manual Testing.
